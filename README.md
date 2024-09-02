@@ -1,5 +1,5 @@
 <div>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=eoAndrelz&show_icons=true&theme=material-palenight&include_all_commits=true&hide_rank=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=eoAndrelz&show_icons=true&theme=material-palenight&hide_rank=true"/>
   
 <img height= "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoAndrelz&theme=material-palenight"/>
 
