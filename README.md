@@ -17,7 +17,7 @@
   <img align="center" alt="Andrelz-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">         
 </div>
 
-- :office: &nbsp;Atualmente procurando emprego na Area Backend 
-- :seedling: &nbsp;Atualmente Estudando Programação de Games
+- :office: &nbsp; Atualmente procurando emprego na Area Backend 
+- :seedling: &nbsp; Atualmente Estudando Programação de Games
 - :speech_balloon: &nbsp; Meus Hobbies são RPG e Games 
-- :book: &nbsp;Estudando sobre Design e UX
+- :book: &nbsp; Estudando sobre Design e UX
