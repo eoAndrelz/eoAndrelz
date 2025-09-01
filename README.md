@@ -21,3 +21,5 @@
 - :seedling: &nbsp; Atualmente Estudando Programação de Games
 - :speech_balloon: &nbsp; Meus Hobbies são RPG e Games 
 - :book: &nbsp; Estudando sobre Design e UX
+
+[![Projetos-Proa](https://img.shields.io/badge/GitHub-Projetos--Proa-6f42c1?style=for-the-badge&logo=github)](https://github.com/Projetos-Proa)
